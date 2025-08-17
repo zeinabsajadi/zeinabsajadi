@@ -24,15 +24,4 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabsajadi&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/zeinab-sajjadi-488288293/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zeinabsajadynasab@gmail.com)
-
----
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=zeinabsajadi&color=blueviolet&style=for-the-badge)
-
 </div>
